@@ -8,7 +8,7 @@
     <artifactId>java</artifactId>
     <version>1.0-SNAPSHOT</version>
 <build>
-    <finalName>docker-jenkins-intergrationn</finalName>
+    <finalName>docker-jenkins-intergrationnd</finalName>
 </build>
     <properties>
         <maven.compiler.source>18</maven.compiler.source>
